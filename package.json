@@ -1,0 +1,10 @@
+{
+  "name": "render-hitboxes",
+  "version": "0.0.0",
+  "ccmodHumanName": "Render hitboxes",
+  "description": "Renders hitboxes as red wireframes",
+  "homepage": "https://github.com/dmitmel/crosscode-render-hitboxes",
+  "license": "CC0-1.0",
+  "module": true,
+  "prestart": "prestart.js"
+}
