@@ -1,6 +1,6 @@
 {
   "id": "render-hitboxes",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "title": "Render hitboxes",
   "description": "Renders hitboxes as red wireframes",
   "homepage": "https://github.com/dmitmel/crosscode-render-hitboxes",
